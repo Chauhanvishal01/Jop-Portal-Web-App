@@ -46,7 +46,7 @@ A full-featured **Job Portal Web Application** built using the **MERN stack** (M
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Chauhanvishal01/Job-Portal-Web-App.git
+   git clone https://github.com/Chauhanvishal01/Jop-Portal-Web-App.git
    cd job-portal-web-app
    ```
 
