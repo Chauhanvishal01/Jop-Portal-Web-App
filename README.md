@@ -63,7 +63,10 @@ A full-featured **Job Portal Web Application** built using the **MERN stack** (M
    ```
 
 4. **Setup environment variables:**
-   - Create a `.env` file in the `backend` folder.
+
+   -Create a `config` folder in the backend directory.
+   -Inside the config folder, create a `config.env` file to store environment variables or refer to the `SampleDotENV` file for guidance.
+   - 
    - Add the following variables:
      ```env
      MONGO_URI=your_mongodb_connection_string
@@ -85,19 +88,16 @@ A full-featured **Job Portal Web Application** built using the **MERN stack** (M
      ```
    - Start the frontend:
      ```bash
-     cd ../frontend
+     cd frontend
      npm run dev
      ```
-
-6. **Access the app:**
-   Open your browser and navigate to `http://localhost:3000`.
 
 ---
 
 ## Screenshots
 
 ### Home Page
-![Home Page Screenshot](./screenshots/homepage.png)
+![Home Page Screenshot](.frontend/screenshots/home.png)
 
 ### Job Details
 ![Job Details Screenshot](./screenshots/jobdetails.png)
