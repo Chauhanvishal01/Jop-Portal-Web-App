@@ -46,7 +46,7 @@ A full-featured **Job Portal Web Application** built using the **MERN stack** (M
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Chauhanvishal01/job-portal-web-app.git
+   git clone https://github.com/Chauhanvishal01/Job-Portal-Web-App.git
    cd job-portal-web-app
    ```
 
@@ -97,15 +97,32 @@ A full-featured **Job Portal Web Application** built using the **MERN stack** (M
 ## Screenshots
 
 ### Home Page
-![Home Page Screenshot](.frontend/screenshots/home.png)
+![Home Page Screenshot](./frontend/screenshots/home.png)
+
+![Home Page Screenshot](./frontend/screenshots/home2.png)
+
+![Home Page Screenshot](./frontend/screenshots/home3.png)
+
+### Login Page
+![Login Page Screenshot](./frontend/screenshots/login.png)
+
+### Register Page
+![Register Page Screenshot](./frontend/screenshots/register.png)
 
 ### Job Details
-![Job Details Screenshot](./screenshots/jobdetails.png)
+![Job Details Screenshot](./frontend//screenshots/jobs.png)
+
+### Job Filter
+![Job Filter Screenshot](./frontend/screenshots/jobfilter.png)
+
+### Gmail Notifications
+![Gmail Notifications Screenshot](./frontend/screenshots/gmailnotificationsend.png)
 
 ### Dashboard
-![Dashboard Screenshot](./screenshots/dashboard.png)
+ScreenShots: 
+- [Employer Dashboard](https://github.com/Chauhanvishal01/Jop-Portal-Web-App/tree/main/frontend/screenshots/employer)
 
-*(Add your screenshots to a `screenshots` folder in the project directory)*
+- [User Dashboard](https://github.com/Chauhanvishal01/Jop-Portal-Web-App/tree/main/frontend/screenshots/user)
 
 ---
 
@@ -125,4 +142,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Author
 - **Vishal** - MERN Developer and Software Engineering Fresher.
 
-Feel free to fork the project, submit pull requests, or report issues on [GitHub](https://github.com/yourusername/job-portal-web-app).
+Feel free to fork the project, submit pull requests, or report issues on [GitHub](https://github.com/Chauhanvishal01/Jop-Portal-Web-App).
